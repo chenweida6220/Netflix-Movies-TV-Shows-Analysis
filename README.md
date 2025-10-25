@@ -33,3 +33,7 @@ The analysis revealed significant growth in Netflix’s content catalog, with th
 
 ## Getting Started
 Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+
+## Featured Deliverables
+* [Tableau Dashboard: Netflix Movies & TV Shows Till 2021](https://public.tableau.com/app/profile/wei.da.chen/viz/NetflixMoviesTVShowsTill2021/Netflix)
+* [Tableau Dashboard: Netflix Movies & TV Shows Till 2025](https://public.tableau.com/app/profile/wei.da.chen/viz/NetflixMoviesTVShowsTill2025/Netflix)
