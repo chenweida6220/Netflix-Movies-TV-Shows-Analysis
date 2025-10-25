@@ -24,6 +24,9 @@ This project explores and visualizes Netflix's catalog of movies and TV shows us
 <br>
 ![Netflix Movies and TV Shows Till 2025](Netflix%20Movies%20and%20TV%20Shows%20Till%202025/Netflix%20Movies%20and%20TV%20Shows%20Till%202025_dashboard.png)
 
+# Key Findings
+The analysis revealed significant growth in Netflix’s content catalog, with the number of titles expanding tenfold from 2008 to peak years, dominated by movies, which accounted for nearly 70% of the total library. Across both datasets, “Drama” emerged as the most prevalent genre, followed by Comedy and Documentaries, reflecting Netflix’s focus on globally appealing, story-driven content. The platform’s library showed strong international diversity, with many top genres including “International Movies.” From the 2025 dataset, ratings trends indicated overwhelmingly positive user feedback, with most titles rated between 7 and 8 out of 10, suggesting that a 7 represents the true average. Additionally, the analysis found a weak correlation between popularity and ratings, indicating that highly popular titles are not necessarily the highest-rated. Genre blending, particularly combinations like “Drama, Romance” and “Comedy, Drama,” was also common, highlighting Netflix’s emphasis on diverse storytelling to engage a broad global audience.
+
 # Technologies
 * Excel
 * Tableau
