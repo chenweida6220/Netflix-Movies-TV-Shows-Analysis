@@ -45,4 +45,5 @@ This project explores and visualizes Netflix's catalog of movies and TV shows us
 * [Tableau Dashboard: Netflix Movies & TV Shows Till 2025](https://public.tableau.com/app/profile/wei.da.chen/viz/NetflixMoviesTVShowsTill2025/Netflix)
 
 ## Getting Started
-Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here for 2021](/Netflix%20Movies%20&%20TV%20Shows%20Till%202021/Netflix%20Movies%20&%20TV%20Shows%20Till%202021.twbx) and [here for 2025](/Netflix%20Movies%20and%20TV%20Shows%20Till%202025/Netflix%20Movies%20&%20TV%20Shows%20Till%202025.twbx) within this repo.    
